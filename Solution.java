@@ -11,4 +11,8 @@ public class Solution{
     public static String getString(){
         return "aa";
     }
+
+    public void abc () {
+        System.out.println("abc");
+    }
 }
